@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
- <h1 align="center">Hello world, I'm Beatriz :relaxed:</h1>
+ <p align="center">Hello world, I'm ***Beatriz*** :relaxed:</p>
 <p align="center"> :tulip: In this space you can get to know me better, my hobbies, my projects and what I am currently studying :book:</p
 
 ----
