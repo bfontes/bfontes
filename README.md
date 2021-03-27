@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ----
 
-More about me::pushpin: 
+ ⚡ Fun fact: :pushpin: 
  <p> :brain: I love learning new things, currently I venture into painting watercolor :art: </p>
  <p> :video_game: Also, I like to play CS:GO, it doesn’t mean I’m good, but I try to 🤭 </p>
  <p> :guitar:Actually, I'm learning eletric guitar ✍️</p> 
@@ -43,7 +43,7 @@ More about me::pushpin:
  ----
  
 What I'm doing:
-<p>🧑‍💼 I am working as a researcher on a project aimed at the automation of instrumentation assets in industrial plants.</p>
+<p>🌱  I am working as a researcher on a project aimed at the automation of instrumentation assets in industrial plants.</p>
 
  ----
  Where can you look for me:
