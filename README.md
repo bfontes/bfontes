@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
- <p align="center">Hello world, I'm <b>Beatriz<b> :relaxed:</p>
-<p align="center"> :tulip: In this space you can get to know me better, my hobbies, my projects and what I am currently studying :book:</p
+<p align="center">Hello world, I'm <b>Beatriz<b> :relaxed:</p>
+<p align="center">:tulip: In this space you can get to know me better, my hobbies, my projects and what I am currently studying :book:</p
 
 ----
 
- <p>I'm a Researcher and Front-end Javascript Developer at IMD/UFRN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="24px">, and volunteer in the technological business group at the school of science and technology :bulb:</p>
- <p>Student of Science and Technology at the Federal University of Rio Grande do Norte.</p>
+I'm a Researcher and Front-end Javascript Developer at IMD/UFRN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="24px">, and volunteer in the technological business group at the school of science and technology :bulb:
+Student of Science and Technology at the Federal University of Rio Grande do Norte.
  
  ----
  
- <p>Languages and tools:</p>
+Languages and tools:
  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
