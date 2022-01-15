@@ -26,7 +26,7 @@ Student of Science and Technology at the Federal University of Rio Grande do Nor
 Languages and tools:
  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -44,7 +44,7 @@ Languages and tools:
  ----
  
 What I'm doing:
-<p>🌱  I am working as a researcher on a project aimed at the automation of instrumentation assets in industrial plants.</p>
+<p>🌱  I am working as a Front-End developer at Estante Virtual|Luiza Labs </p>
 
  ----
  Where can you look for me:
