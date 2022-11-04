@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 ----
 
-I'm a Researcher and Front-end Javascript Developer at IMD/UFRN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="24px">, and volunteer in the technological business group at the school of science and technology :bulb:
-Student of Science and Technology at the Federal University of Rio Grande do Norte.
+I'm a Researcher and Front-end Javascript Developer at LuizaLabs/Magazine Luiza <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="24px">, and Student of Science and Technology at the Federal University of Rio Grande do Norte.
  
  ----
  
