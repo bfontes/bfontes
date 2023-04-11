@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ----
 
-I'm a Researcher and Front-end Javascript Developer at LuizaLabs/Magazine Luiza <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="24px">, and Student of Science and Technology at the Federal University of Rio Grande do Norte.
+I'm a Researcher and Front-end Javascript Developer at LuizaLabs/Magazine Luiza <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="24px">, and Student of Computer Enginnering at the Federal University of Rio Grande do Norte.
  
  ----
  
