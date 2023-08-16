@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ----
 
-I'm a Researcher and Front-end Javascript Developer at LuizaLabs/Magazine Luiza <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="24px">, and Student of Computer Engineering at the Federal University of Rio Grande do Norte.
+I'm a Front-end Javascript Developer at LuizaLabs/Magazine Luiza <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="24px">, and Student of Computer Engineering at the Federal University of Rio Grande do Norte.
  
  ----
  
@@ -41,11 +41,6 @@ Languages and tools:
  <p> :video_game: Also, I like to play CS:GO, it doesn’t mean I’m good, but I try to 🤭 </p>
  <p> :guitar:Actually, I'm learning eletric guitar ✍️</p> 
  
- ----
- 
-What I'm doing:
-<p>🌱  I am working as a Front-End developer at Estante Virtual|Luiza Labs </p>
-
  ----
  Where can you look for me:
 |[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/ana-beatriz-fontes-2820611aa) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:fontesfbs@gmail.com)
