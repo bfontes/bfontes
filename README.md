@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ----
 
-I'm a Front-end Javascript Developer at LuizaLabs/Magazine Luiza <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="24px">, and Student of Computer Engineering at the Federal University of Rio Grande do Norte.
+I'm a Software Engineer at Isaac, a financial company focused on education <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="24px">, and Student of Computer Engineering at the Federal University of Rio Grande do Norte. My passion for learning and take on new challenges led me to the excited field of coding. 
  
  ----
  
