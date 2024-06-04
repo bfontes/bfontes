@@ -47,8 +47,8 @@ Terraform, Rancher, Apollo GraphQL, Unleash.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-----
-
+ ----
+ 
  ⚡ Fun fact: :pushpin: 
  <p> :brain: I love learning new things, currently I venture into painting watercolor :art: </p>
  <p> :video_game: Also, I like to play CS:GO, it doesn’t mean I’m good, but I try to 🤭 </p>
