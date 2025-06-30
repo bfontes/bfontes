@@ -51,7 +51,6 @@ Terraform, Rancher, Apollo GraphQL, Unleash.
  
  ⚡ Fun fact: :pushpin: 
  <p> :brain: I love learning new things, currently I venture into painting watercolor :art: </p>
- <p> :video_game: Also, I like to play CS:GO, it doesn’t mean I’m good, but I try to 🤭 </p>
  <p> :guitar:Actually, I'm learning eletric guitar ✍️</p> 
  
  ----
