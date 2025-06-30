@@ -24,8 +24,8 @@ I'm a Software Engineer at Isaac, a financial company focused on education <img 
  
 Tech Stack
 
-Languages: JavaScript(ES6), Python, Typescript, Go, NodeJs. Libraries and Frameworks: Vue and React. CSS: SASS,
-LESS, SCSS, Styled components and Tailwind. Test: Jest. Tools: Github/Gitlab(actions), Docker, Kubernets, ESLint,
+Languages: JavaScript(ES6),Typescript, Go, NodeJs. Libraries and Frameworks: Next and React. CSS: SASS,
+LESS, SCSS, Styled components and Tailwind. Test: Jest and Vitest. Tools: Github/Gitlab(actions), Docker, Kubernets, ESLint,
 SEO, AWS(Route S3, CloudFront, CloudSearch, Elastic Cache, ES2, Lambda, Cloudwatch), GCP, GTM, ElasticSearch,
 Terraform, Rancher, Apollo GraphQL, Unleash.
 
